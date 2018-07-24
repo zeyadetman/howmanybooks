@@ -1,0 +1,16 @@
+.library {
+	margin: 15px 25px;
+}
+
+.library__books {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.library__books > .card {
+	margin-top: 14px !important;
+	margin-bottom: 14px !important;	
+    width: 330px !important;
+}
