@@ -6,7 +6,7 @@
 		"ramda": "^0.25.0",
 		"react": "^16.4.1",
 		"react-dom": "^16.4.1",
-		"react-scripts": "^1.1.4",
+		"react-scripts": "^5.0.1",
 		"semantic-ui-css": "^2.3.3",
 		"semantic-ui-react": "^0.82.1"
 	},
